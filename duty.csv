@@ -1,4 +1,8 @@
-date,duty,category
-20200702,repair tripod,hardware
-,mark the types and colour of the car from video,
-,mark the time frame from point cloud,
+date,duty,category,time
+20200702,repair tripod,hardware,12-6
+,mark the types and colour of the car from video,software,
+,mark the time frame from point cloud,,
+20200703,finsih marking of the time frame,software,12-6
+,snapshot different type of cars(small truck),,
+20200706,snapshot of private cars(grey and black),software,12-5
+,snapshot of smal truck (silver),,
